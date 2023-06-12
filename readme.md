@@ -40,4 +40,21 @@ Cub3D :
 [![sleon's 42 cub3d Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3056843)](https://github.com/Tachiyoru/Cub3d)
 
 CPP 00 :
-[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3073229)]()
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3073229)]
+(https://github.com/Tachiyoru/Cub3d)
+
+CPP 01 :
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3079322)]
+(https://github.com/Tachiyoru/Cub3d)
+
+CPP 02 :
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3091322)]
+(https://github.com/Tachiyoru/Cub3d)
+
+CPP 03 :
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3094251)]
+(https://github.com/Tachiyoru/Cub3d)
+
+CPP 04 :
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3103501)]
+(https://github.com/Tachiyoru/Cub3d)
