@@ -43,13 +43,13 @@ CPP 00 :
 [![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3073229)](https://github.com/Tachiyoru/Cpp-00)
 
 CPP 01 :
-[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3079322)](https://github.com/Tachiyoru/Cub3d)
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3079322)](https://github.com/Tachiyoru/cpp-01))
 
 CPP 02 :
-[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3091322)](https://github.com/Tachiyoru/Cub3d)
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3091322)](https://github.com/Tachiyoru/Cpp-02)
 
 CPP 03 :
-[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3094251)](https://github.com/Tachiyoru/Cub3d)
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3094251)](https://github.com/Tachiyoru/Cpp-03)
 
 CPP 04 :
-[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3103501)](https://github.com/Tachiyoru/Cub3d)
+[![sleon's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgwckoj9006408lev6334j20/project/3103501)](https://github.com/Tachiyoru/Cpp-04)
